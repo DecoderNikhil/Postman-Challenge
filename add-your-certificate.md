@@ -473,6 +473,8 @@
 
 | 451 | Harish Peddina      | peddinaharish2003@gmail.com    | [Harish Peddina](https://www.linkedin.com/in/harish-peddina) | [Certificate](https://api.badgr.io/public/assertions/Zst6WklPSYmeLJNS7rnuBQ?identity__email=peddinaharish2003%40gmail.com) | good                        |
 
+| 452    | Nikhil Kumar     | nikhils9802@gmail.com        | [Nikhil Kumar](https://www.linkedin.com/in/nikhil-kumar-069849172/)                                                                                                      | [Certificate Link](https://api.badgr.io/public/assertions/ztqEKNcFRjuZGL_SIRwZmw?identity__email=nikhils9802%40gmail.com) | Thank you for the opportunity
+
 
 | 451 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
 
